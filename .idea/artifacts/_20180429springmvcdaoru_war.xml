@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="_20180429springmvcdaoru:war">
+    <output-path>$PROJECT_DIR$/_20180429springmvcdaoru/target</output-path>
+    <root id="archive" name="20180429springmvcdaoru.war">
+      <element id="artifact" artifact-name="_20180429springmvcdaoru:war exploded" />
+    </root>
+  </artifact>
+</component>
